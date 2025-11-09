@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abereghici.abereghici)
 
-👨 Know more about me at [https://bereghici.dev](https://bereghici.dev)
+👨 Know more about me at [https://alexandru.bereghici.dev](https://alexandru.bereghici.dev)
 
 ---
 
