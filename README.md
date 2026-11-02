@@ -1,13 +1,18 @@
-## Hi 👋 I am Alexandru! 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+  <img src=".github/assets/banner-light.svg" alt="" width="100%">
+</picture>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abereghici.abereghici)
+<h3 align="center">I build large frontends and the design systems under them.</h3>
 
-👨 Know more about me at [https://alexandru.bereghici.dev](https://alexandru.bereghici.dev)
+<p align="center">Frontend architect for 11 years.</p>
 
----
+## Open source
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abereghici&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abereghici's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abereghici&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+- [**design-system**](https://github.com/abereghici/design-system): React components and DTCG tokens on the web platform.
+- [**themes**](https://github.com/abereghici/themes): Bereghici Dark and Light for 23 tools, generated from the same tokens.
+- [**remix-themes**](https://github.com/abereghici/remix-themes): theme switching for Remix. ![npm downloads](https://img.shields.io/npm/dm/remix-themes?color=263316&label=downloads)
 
---- 
-[![@abereghici's Holopin board](https://holopin.io/api/user/board?user=abereghici)](https://holopin.io/@abereghici)
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/alexandrubereghici/) · [X](https://x.com/alexandrubrg)
