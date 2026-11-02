@@ -3,7 +3,7 @@
   <img src=".github/assets/banner-light.svg" alt="" width="100%">
 </picture>
 
-<p align="center">Frontend architect. I build large frontends and the design systems under them.</p>
+<p align="center">Frontend architect building large-scale web applications and the design systems behind them.</p>
 
 <p align="center">
   <samp>
