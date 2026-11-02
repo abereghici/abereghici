@@ -1,0 +1,27 @@
+{
+  "name": "abereghici",
+  "private": true,
+  "description": "Alexandru Bereghici's GitHub profile, with its banner generated from the Bereghici Design System tokens.",
+  "license": "MIT",
+  "author": "abereghici",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/banner.ts",
+    "check": "node scripts/banner.ts --check"
+  },
+  "dependencies": {
+    "@abereghici/tokens": "0.2.0"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    },
+    "runtime": {
+      "name": "node",
+      "version": "24.17.0",
+      "onFail": "download"
+    }
+  }
+}

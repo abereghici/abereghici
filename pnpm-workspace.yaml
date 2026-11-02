@@ -1,0 +1,3 @@
+# The design system is released by the same maintainer, so its new versions apply at once
+minimumReleaseAgeExclude:
+  - "@abereghici/tokens"

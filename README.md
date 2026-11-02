@@ -1,13 +1,13 @@
-## Hi 👋 I am Alexandru! 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+  <img src=".github/assets/banner-light.svg" alt="" width="100%">
+</picture>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abereghici.abereghici)
+<p align="center">Frontend architect building large-scale web applications and the design systems behind them.</p>
 
-👨 Know more about me at [https://alexandru.bereghici.dev](https://alexandru.bereghici.dev)
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abereghici&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="abereghici's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abereghici&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
---- 
-[![@abereghici's Holopin board](https://holopin.io/api/user/board?user=abereghici)](https://holopin.io/@abereghici)
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/alexandrubereghici/">linkedin</a> .
+    <a href="https://x.com/alexandrubrg">x</a>
+  </samp>
+</p>
