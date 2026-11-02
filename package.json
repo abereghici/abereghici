@@ -10,7 +10,9 @@
     "check": "node scripts/banner.ts --check"
   },
   "dependencies": {
-    "@abereghici/tokens": "0.2.0"
+    "@abereghici/tokens": "0.2.0",
+    "opentype.js": "2.0.0",
+    "wawoff2": "2.0.1"
   },
   "devEngines": {
     "packageManager": {

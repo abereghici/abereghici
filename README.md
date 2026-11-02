@@ -1,8 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
-  <img src=".github/assets/banner-light.svg" alt="" width="100%">
+  <img src=".github/assets/banner-light.svg" alt="Built to be built on." width="100%">
 </picture>
 
-<h3 align="center">I build large frontends and the design systems under them.</h3>
-
-<p align="center">11 years building frontends.</p>
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/alexandrubereghici/">linkedin</a> .
+    <a href="https://x.com/alexandrubrg">x</a>
+  </samp>
+</p>
