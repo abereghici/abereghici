@@ -1,7 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
-  <img src=".github/assets/banner-light.svg" alt="Built to be built on." width="100%">
+  <img src=".github/assets/banner-light.svg" alt="" width="100%">
 </picture>
+
+<p align="center">Frontend architect. I build large frontends and the design systems under them.</p>
 
 <p align="center">
   <samp>

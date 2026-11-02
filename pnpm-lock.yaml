@@ -169,12 +169,6 @@ importers:
       '@abereghici/tokens':
         specifier: 0.2.0
         version: 0.2.0
-      opentype.js:
-        specifier: 2.0.0
-        version: 2.0.0
-      wawoff2:
-        specifier: 2.0.1
-        version: 2.0.1
     devDependencies:
       node:
         specifier: runtime:24.17.0
@@ -184,9 +178,6 @@ packages:
 
   '@abereghici/tokens@0.2.0':
     resolution: {integrity: sha512-GkGulduwXWAi2zN9xlH3k/qLiPPJuaa33ghjtPkJg7L1IRuZ9qck8d4tFNGllZd4n/OwZWHaN/osCFgR0/E5xA==}
-
-  argparse@2.0.1:
-    resolution: {integrity: sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==}
 
   node@runtime:24.17.0:
     resolution:
@@ -309,24 +300,8 @@ packages:
     version: 24.17.0
     hasBin: true
 
-  opentype.js@2.0.0:
-    resolution: {integrity: sha512-kCyjv6xdDY1W/jLWZ/L3QhhTlKUqDZMQ5+Jdlw12b3dXkKNpYBqqlMMj0YDQPShWFTMwgZI1hG14kN3XUDSg/A==}
-    hasBin: true
-
-  wawoff2@2.0.1:
-    resolution: {integrity: sha512-r0CEmvpH63r4T15ebFqeOjGqU4+EgTx4I510NtK35EMciSdcTxCw3Byy3JnBonz7iyIFZ0AbVo0bbFpEVuhCYA==}
-    hasBin: true
-
 snapshots:
 
   '@abereghici/tokens@0.2.0': {}
 
-  argparse@2.0.1: {}
-
   node@runtime:24.17.0: {}
-
-  opentype.js@2.0.0: {}
-
-  wawoff2@2.0.1:
-    dependencies:
-      argparse: 2.0.1
